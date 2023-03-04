@@ -1,0 +1,21 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 25px 15px 5px black;
+}
+.nota{
+    color: black;
+    font-size: 15px;
+}
+.copy_right_footer{
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+}
+canva{
+    border: 5px dashed blue;
+    border-radius: 20px;
+    box-shadow: 5px 25px 15px 5px black;
+}
